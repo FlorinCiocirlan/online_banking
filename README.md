@@ -31,9 +31,9 @@ Consumer client money wiring incurs a 1% transaction fee (if the client wires 10
 
 Corporate client can wire money without transaction fees.
 
-Test your code by making a few sample instances and printing them out!
+### Test your code by making a few sample instances and printing them out!
 
-Remind the student that in the future the bank can create more types of accounts with different rules (Family Account, Super Saver Account).
+### Remind the student that in the future the bank can create more types of accounts with different rules (Family Account, Super Saver Account).
 
-Hints: you should have an abstract class or interface, use inheritance, data hiding and make sure there is no code repetition.
+### Hints: you should have an abstract class or interface, use inheritance, data hiding and make sure there is no code repetition.
 
